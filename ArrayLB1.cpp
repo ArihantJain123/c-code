@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stdio.h>
  using namespace std;
+//new
  int  main()
   {
       int Arr[10],i;
