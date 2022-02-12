@@ -1,4 +1,4 @@
-
+//all are header files 
 #include <bits/stdc++.h>
 #include <string.h>
 using namespace std;
