@@ -1,7 +1,7 @@
 /* C implementation QuickSort */
 #include<stdio.h>
 
-// A utility function to swap two elements
+// A utility function to swap two elements.,
 void swap(int* a, int* b)
 {
 	int t = *a;
