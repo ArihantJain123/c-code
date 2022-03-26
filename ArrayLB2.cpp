@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdio.h>
-//new file added 
+//new file added new
 using namespace std ;
 
 int main()
