@@ -3,7 +3,7 @@
 int main()
 {
     int i,avg,sum=0;
-    int marks[30]; /*array declaration*/
+    int marks[30]; /*array declaration*///
 
     for(i=0;i<=29;i++)
     {
